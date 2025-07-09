@@ -13,7 +13,7 @@
     <br><br>
     🎮 <strong>Gamer Forever:</strong> I dedicated most of my life to video games. In my oppinion it's the most powerful medium for art - be it visual, audio or interactive. It has inspired me and pushed my creativity to the limit. I worked in game development as a QA and I loved every minute of it (except during last sprints and validations :P )
     <br><br>
-    🔗 Check out my personal portfolio website: <a href="[https://marasoiu.vercel.app/]" style="color: #58a6ff; text-decoration: none;">My Portfolio's currently being updated. So don't judge too harshly :D</a>
+    🔗 Check out my personal portfolio website: <a href="[https://marasoiu.vercel.app/]" style="color: #58a6ff; text-decoration: none;">My Portfolio's currently being updated. So don't judge too harshly :D </a>
   </p>
 
 ## 🌐 Socials:
