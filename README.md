@@ -6,6 +6,16 @@
 <div align="center">
   
 # 🚀 About me: 
+<p style="color: #d0d0d0; font-size: 16px; line-height: 1.6; text-align: justify; padding: 0 20px;">
+    🎨 <strong>Design Lover:</strong> I love designing creative interfaces that are also accesible and inovative. I'm focusing right now on UX/UI design so that I can produce the best products for my clients.
+    <br><br>
+    💻 <strong>Front-End Path:</strong> I specialize in <span style="color: #61dafb;">React</span>, Next.js, <span style="color: #f7df1e;">JavaScript</span>, and Typescript. With React and Next.js I like the ease of access and power of Tailwind for developing fast and optimized!
+    <br><br>
+    🎮 <strong>Gamer Forever:</strong> I dedicated most of my life to video games. In my oppinion it's the most powerful medium for art - be it visual, audio or interactive. It has inspired me and pushed my creativity to the limit. I worked in game development as a QA and I loved every minute of it (except during last sprints and validations :P )
+    <br><br>
+    🔗 Check out my personal portfolio website: <a href="[https://marasoiu.vercel.app/]" style="color: #58a6ff; text-decoration: none;">My Portfolio's currently being updated. So don't judge too harshly :D</a>
+  </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrei-marasoiu/) 
 # 💻 Tech Stack:
