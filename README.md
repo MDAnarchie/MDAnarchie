@@ -1,4 +1,6 @@
-## Hi there! My name is Andrei and I am a Web Developer that is on a mission of becoming the best!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Andrei;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
 
 <div align="center">
