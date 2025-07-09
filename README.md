@@ -1,4 +1,4 @@
-## Hi there! My name is Andrei and I am a webdeveloper! 
+## Hi there! My name is Andrei and I am a Web Developer that is on a mission of becoming the best!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrei-marasoiu/) 
 
